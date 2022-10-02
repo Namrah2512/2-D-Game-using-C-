@@ -1,4 +1,4 @@
-# 2-D-Game-using-C-
+# 2-D-Game-using-CPP
 We built this game using the concepts of Programming Fundamentals and OOP.
 # Project Description:
 Our project is a 2D game in which our hero/champion is defending his hometown from the Demon Lord’s minions who are attacking and destroying his hometown. The Hero is fighting against the minions who are rampaging his hometown. Whenever the hero kills one of the minions of the demon lord, he is awarded 10 points.
